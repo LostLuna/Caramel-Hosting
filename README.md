@@ -19,3 +19,5 @@ This website Make your bot ON 24/7 (Like Hosting) Yea Its Free You Can see Scree
 . Then Npm Install --Save
 
 . node index.js
+
+. Configure The `Config.JS`
