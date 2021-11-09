@@ -13,6 +13,9 @@ This website Make your bot ON 24/7 (Like Hosting) Yea Its Free You Can see Scree
 
 
 # How To Install?
-Node Js Version 13 Or Higher
-Then Npm Install --Save And
-node index.js
+
+. Node Js Version 13 Or Higher
+
+. Then Npm Install --Save And
+
+. node index.js
