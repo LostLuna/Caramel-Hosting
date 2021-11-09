@@ -1,0 +1,32 @@
+ {
+    "bot": {
+        "prefix": "!",
+        "id": "900035799016427560",
+        "secret": "kjaSfTOFgp_JOVmMbTm7Zt1_1k_5Ncik",
+        "token": "BOT TOKEN"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://SzyHostinger.haseull.repl.co",
+        "callback": "https://SzyHostinger.haseull.repl.co/callback",
+        "discord_server_ID": "873583985475858433",
+        "ownerids": ["852712150601957428", "852712150601957428"],
+        "ownershow": true,
+        "owners": [
+            {
+                "id": "852712150601957428",
+                "desc": "Caramelo"
+            },
+            {
+                "id": "852712150601957428",
+                "desc": "Morena"
+            }
+        ],
+        "arc": {
+            "enabled": false,
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://DEVELOPERS:DEVELOPERS@cluster0.wakp5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "discord": "https://discord.gg/fqjdsyEq24"
+ }
