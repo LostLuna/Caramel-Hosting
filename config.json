@@ -30,4 +30,5 @@
     "mongodb": "XXX",
     "discord": "XXX"
  }
-// The program cant run if you dont put mongodb :(
+
+/// The program cant run if you dont put mongodb :(
