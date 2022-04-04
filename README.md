@@ -6,10 +6,7 @@ This website Make your bot ON 24/7 (Like Hosting) Yea Its Free You Can see Scree
 
 
 Made with
-- Erela.Js
-- Js
-- Css
-- Html
+- Erela.Js - Html - Css - Js
 
 - ❓ &nbsp; Turoial Avaible in [Youtube](https://www.youtube.com/watch?v=G3yhZ78lYK0)
 - ⚠ &nbsp; !You Need Login to [Repl.it](https://replit.com)
