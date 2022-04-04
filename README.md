@@ -1,7 +1,7 @@
 ### Wooo!! Its Time
 Today I Will Share My Projects Again This Is Website Based ON HTML Ejs And Css
 This website Make your bot ON 24/7 (Like Hosting) Yea Its Free You Can see Screenshot Below
-<div align="left"><img src="/Images/Front.png"></div><div align="center"><img src="/Image/Callback.png"></div><div align="right"><img src="/Image/Uptime.png"></div>
+<div align="left"><img src="/Images/Front.png"></div><div align="center"><img src="/Images/Callback.png"></div><div align="right"><img src="/Images/Uptime.png"></div>
 
 
 
