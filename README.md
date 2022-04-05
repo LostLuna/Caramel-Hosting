@@ -22,7 +22,7 @@ This project need Node.js 13 Or higher download here [New Release](https://githu
 ![image](https://user-images.githubusercontent.com/93978895/161688111-7b323d19-8158-477d-a4e7-f8f712e4f502.png)
 
 - Install Git here [Git](https://git-scm.com/downloads)
-- Open your project file then $ Git bash Here
-- $ heroku login You need to login in heroku website
+- Open your project file then  Git bash Here
+- $ heroku login ``You need to login in heroku website``
 - $ git init 
 
