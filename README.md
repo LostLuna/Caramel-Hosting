@@ -13,3 +13,5 @@ Made with
 - 
 Demonstration By Kiara
 [Click here](https://KiaraHost.kiarasenpai.repl.co/callback) 
+
+# Self Hosting
