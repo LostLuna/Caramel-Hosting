@@ -17,7 +17,7 @@ Demonstration By Kiara
 # Self Hosting
 - *Heroku*
 
-This project need Node.js 133 Or higher download here [New Release](https://github.com/Lernox-Dev/Caramel-Hosting/releases/new)
+This project need Node.js 13 Or higher download here [New Release](https://github.com/Lernox-Dev/Caramel-Hosting/releases/new)
 > Download the project then extract in your folder, open CMD
 ![image](https://user-images.githubusercontent.com/93978895/161688111-7b323d19-8158-477d-a4e7-f8f712e4f502.png)
 
