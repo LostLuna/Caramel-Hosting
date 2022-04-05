@@ -21,4 +21,5 @@ This project need Node.js 13 Or higher download here [New Release](https://githu
 > Download the project then extract in your folder, open CMD
 ![image](https://user-images.githubusercontent.com/93978895/161688111-7b323d19-8158-477d-a4e7-f8f712e4f502.png)
 
+2.Install Git here [Git](https://git-scm.com/downloads)
 
