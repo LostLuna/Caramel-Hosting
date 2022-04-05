@@ -5,12 +5,7 @@ This website Make your bot ON 24/7 (Like Hosting) Yea Its Free You Can see Scree
 
 
 
-Made with
-- ``EJs - Css - Js``
 
-- ❓ &nbsp; Turoial Avaible in [Youtube](https://www.youtube.com/watch?v=G3yhZ78lYK0)
-- ⚠ &nbsp; !You Need Login to [Repl.it](https://replit.com)
-- 
 Demonstration By Kiara
 [Click here](https://KiaraHost.kiarasenpai.repl.co/callback) 
 
@@ -32,3 +27,6 @@ This project need Node.js 13 Or higher download here [New Release](https://githu
   ### You need to put procfile In Your project
 ![image](https://user-images.githubusercontent.com/93978895/161690756-e88a2aa1-3ac2-431d-8a5a-db6631cefd28.png)
 
+
+- ❓ &nbsp; Turoial Avaible in [Youtube](https://www.youtube.com/watch?v=G3yhZ78lYK0)
+- ⚠ &nbsp; !You Need Login to [Repl.it](https://replit.com)
