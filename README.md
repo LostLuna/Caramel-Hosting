@@ -15,3 +15,5 @@ Demonstration By Kiara
 [Click here](https://KiaraHost.kiarasenpai.repl.co/callback) 
 
 # Self Hosting
+
+This project need Node.js 133 Or higher
