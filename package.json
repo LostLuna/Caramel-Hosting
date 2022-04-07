@@ -1,5 +1,5 @@
 {
-  "name": "guitarhost",
+  "name": "LernoxDev",
   "version": "0.0.1",
   "description": "An Website Where You Can Easily Monitor Your Sites For Like Glitch And Repl.it So It Never Goes Asleep",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuitarHost/Uptimer.git"
+    "url": "git+https://github.com/Lernox-Dev/Caramel-Hosting.git"
   },
   "keywords": [
     "uptimer",
@@ -17,9 +17,9 @@
   "author": "Ayaan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GuitarHost/Uptimer/issues"
+    "url": "https://github.com/Lernox-Dev/Caramel-Hosting/issues"
   },
-  "homepage": "https://github.com/GuitarHost/Uptimer#readme",
+  "homepage": "https://github.com/Lernox-Dev/Caramel-Hosting#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "chalk": "^4.1.1",
