@@ -14,7 +14,6 @@ Demonstration By Kiara
 
 This project need Node.js 13 Or higher download here [New Release](https://github.com/Lernox-Dev/Caramel-Hosting/releases/new)
 > Download the project then extract in your folder, open CMD
-![image](https://user-images.githubusercontent.com/93978895/161688111-7b323d19-8158-477d-a4e7-f8f712e4f502.png)
 
 - Install Git here [Git](https://git-scm.com/downloads)
 - Open your project file then Right click in the folder  Git bash Here
