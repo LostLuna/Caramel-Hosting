@@ -17,10 +17,10 @@ This project need Node.js 13 Or higher download here [New Release](https://githu
 
 - Install Git here [Git](https://git-scm.com/downloads)
 - Open your project file then Right click in the folder  Git bash Here
-- ![image](https://user-images.githubusercontent.com/93978895/173192969-47d1b353-5f4f-47c5-b28b-1a33f60e83f1.png)
+![image](https://user-images.githubusercontent.com/93978895/173192969-47d1b353-5f4f-47c5-b28b-1a33f60e83f1.png)
 
 - $ heroku login ``You need to login in heroku website``
-- After login type this git init
+- After login type this ``git init``
 - And make your remote to your heroku  Heroku git:remote -a  <Your Bot name>
 - After make your remote then `git add .` ... Wait Until finish
   Commit your project -> git commit -am "Hosting Are Nice"
