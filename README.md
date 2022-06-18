@@ -23,8 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/othneildrew/Best-README-Template](https://i.pinimg.com/236x/cf/50/1b/cf501beb5c525a55df9b66e6b635e142.jpg)">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://i.pinimg.com/236x/cf/50/1b/cf501beb5c525a55df9b66e6b635e142.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
