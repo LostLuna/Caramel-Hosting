@@ -75,7 +75,7 @@
 ![image](https://user-images.githubusercontent.com/93978895/174427506-13307182-d87f-4191-bdfb-64f9614fbd5d.png)
 
 
-About this project, this project was a website hostinger such a Uptimer robot freshping
+* &nbsp; About this project, this project was a website hostinger such a Uptimer robot or freshping
 this website simply make your bot online 24/7 without die
 DONT WORRY THIS UPTIMER USING LINK FOR UPTIMING YOUR PROJECT'S
 
