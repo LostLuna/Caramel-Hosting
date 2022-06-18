@@ -76,8 +76,8 @@
 
 
 * &nbsp; About this project, this project was a website hostinger such a Uptimer robot or freshping
-this website simply make your bot online 24/7 without die
-DONT WORRY THIS UPTIMER USING LINK FOR UPTIMING YOUR PROJECT'S
+* &nbsp; this website simply make your bot online 24/7 without die
+* &nbsp; DONT WORRY THIS UPTIMER USING LINK FOR UPTIMING YOUR PROJECT'S
 
 Here's why:
 * Support Repl.co Domain
