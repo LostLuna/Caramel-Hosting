@@ -96,7 +96,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [Ejs](https://ejs.co)
 * [Css](https://devdocs.io/css/)
-* [HTML](W3Schoolshttps://www.w3schools.com)
+* [HTML](https://www.w3schools.com)
 * [jS](https://devdocs.io/javascript/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
