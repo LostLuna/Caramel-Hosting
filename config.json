@@ -1,25 +1,25 @@
  {
     "bot": {
         "prefix": "b,",
-        "id": "973087834607071232",   
-        "secret": "gNbK1aufDkY7G0v_OwF6fC6wLDpHL_4D",
-        "token": "OTE0MjQ1NTg0OTQzMjA2NDMx.YaKPjQ.Krg_4OExKg0liw00qeypvlCfFtE"
+        "id": "XX",   
+        "secret": "XX",
+        "token": "XX"
     },
     "dashboard": {
         "port": 3000,
-        "url": "https://Uptimer-Website.kiarasenpai.repl.co",
-        "callback": "https://Uptimer-Website.kiarasenpai.repl.co/callback",
-        "discord_server_ID": "896658289155276800",
-        "ownerids": ["852798265996476436", ""],
+        "url": "XX",
+        "callback": "XX",
+        "discord_server_ID": "XX",
+        "ownerids": ["XX", ""],
         "ownershow": true,
         "owners": [
             {
-                "id": "852798265996476436",
-                "desc": "developer"
+                "id": "XX",
+                "desc": "XX"
             },
             {
                 "id": "",
-                "desc": "user"
+                "desc": "XX"
             }
         ],
         "arc": {
@@ -27,6 +27,6 @@
             "code": ""
         }
     },
-    "mongodb": "mongodb+srv://DEVELOPERS:DEVELOPERS@cluster0.wakp5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "discord": "https://discord.gg/Ae7fKsxQTc"
+    "mongodb": "XX",
+    "discord": "https:XX"
  }
