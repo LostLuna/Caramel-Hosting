@@ -32,8 +32,6 @@
   <p align="center">
     Checkout how to use this hosting below!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://kiarahost.kiarasenpai.repl.co">View Demo</a>
     ·
