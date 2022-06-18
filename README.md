@@ -43,7 +43,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Step by step</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](![image](https://user-images.githubusercontent.com/93978895/174427448-259398b2-203a-4ecb-b8ed-1c145c49fb79.png)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
