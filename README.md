@@ -131,10 +131,9 @@ _Below is an example of how you can instruct your audience on installing and set
    ```js
    Mongodb and manymore';
    ```
-3. Node index.js `config.js`
+4. Node index.js
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   And the project is done';
    ```
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
