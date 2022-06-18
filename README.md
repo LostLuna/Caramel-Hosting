@@ -18,6 +18,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -25,12 +27,11 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Website Hosting Demonstratioon</h3>
+  <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
- 
+    An awesome README template to jumpstart your projects!
     <br />
-    Demonstration
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
