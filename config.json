@@ -1,25 +1,25 @@
  {
     "bot": {
-        "prefix": "!",
-        "id": "XXX",
-        "secret": "XXX",
-        "token": "XXX XXX"
+        "prefix": "b,",
+        "id": "973087834607071232",   
+        "secret": "gNbK1aufDkY7G0v_OwF6fC6wLDpHL_4D",
+        "token": "OTE0MjQ1NTg0OTQzMjA2NDMx.YaKPjQ.Krg_4OExKg0liw00qeypvlCfFtE"
     },
     "dashboard": {
         "port": 3000,
-        "url": "https://XXX.XXX.repl.co",
-        "callback": "https://XXX.XXX.repl.co/callback",
-        "discord_server_ID": "XXX",
-        "ownerids": ["XXX", "XXX"],
+        "url": "https://Uptimer-Website.kiarasenpai.repl.co",
+        "callback": "https://Uptimer-Website.kiarasenpai.repl.co/callback",
+        "discord_server_ID": "896658289155276800",
+        "ownerids": ["852798265996476436", ""],
         "ownershow": true,
         "owners": [
             {
-                "id": "XXX",
-                "desc": "XXX"
+                "id": "852798265996476436",
+                "desc": "developer"
             },
             {
-                "id": "XXX",
-                "desc": "XXX"
+                "id": "",
+                "desc": "user"
             }
         ],
         "arc": {
@@ -27,7 +27,6 @@
             "code": ""
         }
     },
-    "mongodb": "XXX",
-    "discord": "XXX"
+    "mongodb": "mongodb+srv://DEVELOPERS:DEVELOPERS@cluster0.wakp5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "discord": "https://discord.gg/Ae7fKsxQTc"
  }
-// The program cant run if you dont put mongodb :(
