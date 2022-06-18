@@ -89,7 +89,7 @@ Here's why:
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This projects make with love and supported with:
 
 * [Ejs](https://ejs.co)
 * [Css](https://devdocs.io/css/)
