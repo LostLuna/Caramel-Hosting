@@ -17,7 +17,7 @@
             "code": ""
         }
     },
-    "mongodb": "mongodb+srv://spacedev:tuda1234@uptimerweb.yoijh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongodb": "",
     "discord": "",
     "logs": "969947835564965938"
 }
