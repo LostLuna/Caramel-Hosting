@@ -1,0 +1,23 @@
+{
+    "bot": {
+        "prefix": "!",
+        "id": "1036143475554533456",
+        "secret": "T4uiGLCTrZ6l4xN6zZ8ry4VXlSy0rC13"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://rvhost.lostluna.xyz",
+        "callback": "https://rvhost.lostluna.xyz/callback",
+        "discord_server_ID": "893044394939285545",
+        "owners": [
+            "586802340607164417"
+        ],
+        "arc": {
+            "enabled": "false",
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://spacedev:tuda1234@uptimerweb.yoijh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "discord": "",
+    "logs": "969947835564965938"
+}
