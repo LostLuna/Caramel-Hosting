@@ -33,7 +33,7 @@
     Checkout how to use this hosting below!
     <br />
     <br />
-    <a href="RvHost.lostluna.xyz">View Demo</a>
+    <a href="https://RvHost.lostluna.xyz">View Demo</a>
     ·
     <a href="https://github.com/Lernox-Dev/Caramel-Hosting/issues">Report Bug</a>
   </p>
