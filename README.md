@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.pinimg.com/236x/cf/50/1b/cf501beb5c525a55df9b66e6b635e142.jpg" alt="Logo" width="80" height="80">
+    <img src="" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"Caramelo Host Demonstration</h3>
@@ -33,7 +33,7 @@
     Checkout how to use this hosting below!
     <br />
     <br />
-    <a href="https://kiarahost.kiarasenpai.repl.co">View Demo</a>
+    <a href="RvHost.lostluna.xyz">View Demo</a>
     ·
     <a href="https://github.com/Lernox-Dev/Caramel-Hosting/issues">Report Bug</a>
   </p>
