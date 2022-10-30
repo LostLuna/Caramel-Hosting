@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="https://media.discordapp.net/attachments/898112940123750401/1036163283843022908/c8f8a493596f773fc30048c616f773b4.jpg?width=320&height=320" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"Caramelo Host Demonstration</h3>
